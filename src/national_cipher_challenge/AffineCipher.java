@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.Arrays;
 
 /**
- * Created by mYPC on 20/10/2015.
+ * Created by Ayush on 20/10/2015.
  */
 public class AffineCipher {
     public static int[] euclideanAlgo(int input,int mod){
